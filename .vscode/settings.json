@@ -1,0 +1,34 @@
+"editor.tokenColorCustomizations": {
+  "textMateRules": [
+    {
+      "scope": "meta.function-call.generic.python",
+      "settings": {
+        "foreground": "#DCDCAA"
+      }
+    },
+    {
+      "scope": "source.python",
+      "settings": {
+        "foreground": "#9CDCFE"
+      }
+    },
+    {
+      "scope": "punctuation.definition.string.begin",
+      "settings": {
+        "foreground": "#ce9178"
+      }
+    },
+    {
+      "scope": "punctuation.definition.string.end",
+      "settings": {
+        "foreground": "#ce9178"
+      }
+    },
+    {
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "#dfdfdf"
+      }
+    }
+  ]
+}
