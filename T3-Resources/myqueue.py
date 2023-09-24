@@ -1,6 +1,6 @@
 """ Queue program """
 
-# Created by: Jonathan Pasco-Arnone
+# Created by: Jonathan Pasco-Arnone and Aidan Lalonde-Novales
 # Created on: September 2023
 
 MAX_QUEUE_SIZE = 10
