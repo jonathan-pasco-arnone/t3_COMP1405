@@ -1,7 +1,8 @@
 import myqueue
+# This is so the file does not close immediately after completing the code
+from time import sleep
 
 thequeue = []
-
 
 print("Printing the initial queue, should be: []")
 print("Your queue is:", thequeue)
@@ -63,3 +64,5 @@ print("Your queue produced: ", myqueue.dequeue(thequeue))
 
 print("Peeking at empty queue, should be None")
 print("Your queue produced: ", myqueue.peek(thequeue))
+
+sleep(60)  # Gives 60 seconds to review answers
